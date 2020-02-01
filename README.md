@@ -4,4 +4,3 @@ TODO LIST:
 2. sacrifice a human - must be segel
 3. Release the virus and become the one and only true god
 4. announcing myself as king of the world
-5. Fix the redo
